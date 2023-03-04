@@ -1,0 +1,12 @@
+[
+  {
+    "origin": [
+      "*",
+      "https://YOUR-HOSTING-URL.web.app",
+      "https://YOUR-HOSTING-URL.web.app/#"
+    ],
+    "responseHeader": ["Content-Type"],
+    "method": ["GET", "HEAD"],
+    "Cache-Control": "no-store"
+  }
+]
