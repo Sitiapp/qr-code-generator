@@ -16,7 +16,7 @@ $ https://sitiapp-qrcodegen-demo.web.app/
 
 ![Alt text](login.png?raw=true "Login Screen")
 
-### Forgot Passowrd
+### Forgot Password
 
 ![Alt text](forgot-password.png?raw=true "Forgot Passowrd Screen")
 
@@ -24,9 +24,13 @@ $ https://sitiapp-qrcodegen-demo.web.app/
 
 ![Alt text](user-details.png?raw=true "User Details Screen")
 
-### Login Screen
+### QR Code List Screen
 
 ![Alt text](qr-code-list.png?raw=true "QR Codes List Screen")
+
+### Prototype List Screen
+
+![Alt text](prototype.png?raw=true "QR Codes List Screen")
 
 ## DOWNLOAD - step 1 (required)
 
